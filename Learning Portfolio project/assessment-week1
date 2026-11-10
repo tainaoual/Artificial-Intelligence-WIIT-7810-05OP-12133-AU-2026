@@ -1,31 +1,36 @@
 # AI and Emerging Technologies
 
-## AI-Powered Personalized Learning
+## AI-Native Development Platforms
 
-**Emerging technology:** AI-powered personalized learning
-**Focus:** How artificial intelligence can adapt learning activities and feedback to individual students
+**Emerging technology:** AI-native development platforms
+**Focus:** How generative AI tools help software teams write, test, and fix code
 
 ### a. What emerging technology did you choose? How is AI being used to support it?
 
-AI-native Dev platforms is the emerging tech that I chose for this assignment.  These platforms, like Claude Code, help software engineers write code, explain the code, and help them fix code.  This allows teams, or engineers, to build faster and more securely. I used this at my last job at a bank where incorporating this technology was meant to help us do more with less. I used it to write unit tests rather than writing them myself.
+AI-native development platforms are the emerging technology I chose for this assignment. These platforms, like Claude Code, help software engineers write code, explain code, and fix code. Gartner says these tools help small teams build software faster, with security and governance controls in place (Gartner, 2025). I used this at my last job at a bank, where the goal was to help us do more with less. I used it to write unit tests instead of writing them all myself.
 
 ### b. What solutions were used before AI? How has AI replaced or will soon replace them?
 
-All my coding work was done manually within IDEs and auto-fill but all the tests and security checks were manual.  Claude Code helped automate those security checks so I could clean up the code and properly test the code prior to pushing to Production.
+Before AI, all my coding work was done by hand in the IDE with autocomplete, and the tests and security checks were manual too. Claude Code helped automate some of those security checks, so I could clean up the code and test it properly before pushing to production. I think AI will soon take over more of the routine first drafts, like basic tests and simple security checks. I still believe a developer needs to review the results, because the developer understands the business requirements.
 
 ### c. What type of AI is used?
-For the most part, this was generative and not agentic.  I was able to type what I needed as I could understand it, and it would help me write the code behind it.
+
+For the most part, I used it as generative AI. I typed what I needed in plain words, and it helped me write the code behind it.
 
 ### d. How does the use of AI and this technology affect everyday life?
 
-For me, I was able to spend less time writing the manual tests and foundational code and focus more on the logic itself to meet business requirements.  AI gave me the general basis and I could go from there more easily.
+For me, I spent less time writing manual tests and basic code, and more time on the logic needed to meet the business requirements. AI gave me a starting point, and I could go from there more easily. It now changes how I work: I treat AI output as a first draft that I must check.
+
+It does not help everyone the same way. In one 2025 study, experienced developers took 19% longer on tasks when they used AI, even though they expected to save time (TechCrunch, 2025). For me, it helped most with tests and basic code, not with the hard logic.
 
 ### e. Are there any concerns with using AI for this application?
 
-In general, yes, AI can make mistakes and is meant to perform a task and can skip security or come up with passable tests that don't really test true functionality if it is really just trying to get the code to work. Having a 'human in the loop' is still required to make sure AI does not hallucinate with too much context and security stays top of mind.
+Yes, there are concerns. AI can make mistakes. It can skip security checks, or write tests that pass but do not test the real function, because it is only trying to get the code to work. It can also give wrong answers when it gets too much information. In the 2025 Stack Overflow survey, 84% of developers said they use or plan to use AI tools, but 46% said they do not trust the accuracy of the results (Stack Overflow, 2025). Because of this, a "human in the loop" is still required, so mistakes get caught and security stays top of mind.
 
 ### References
 
 Gartner. (2025). Gartner identifies the top strategic technology trends for 2026. https://www.businesswire.com/news/home/20251020453550/en
+
 TechCrunch. (2025, July 11). AI coding tools may not speed up every developer, study shows. https://techcrunch.com/2025/07/11/ai-coding-tools-may-not-speed-up-every-developer-study-shows
-Stack Overflow. (2025). Stack Overflow’s 2025 Developer Survey reveals trust in AI at an all-time low. https://stackoverflow.co/company/press/archive/stack-overflow-2025-developer-survey/
+
+Stack Overflow. (2025). Stack Overflow's 2025 developer survey reveals trust in AI at an all-time low. https://stackoverflow.co/company/press/archive/stack-overflow-2025-developer-survey/
