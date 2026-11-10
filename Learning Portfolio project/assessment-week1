@@ -7,27 +7,25 @@
 
 ### a. What emerging technology did you choose? How is AI being used to support it?
 
-I chose AI-powered personalized learning. Digital learning tools can use information such as a learner's answers, progress, and areas of difficulty to recommend practice activities or adjust the level of a lesson. Some tools also use conversational AI to respond to questions and provide explanations. These systems can support learning, but teachers remain important for understanding students' needs and guiding instruction.
+AI-native Dev platforms is the emerging tech that I chose for this assignment.  These platforms, like Claude Code, help software engineers write code, explain the code, and help them fix code.  This allows teams, or engineers, to build faster and more securely. I used this at my last job at a bank where incorporating this technology was meant to help us do more with less. I used it to write unit tests rather than writing them myself.
 
 ### b. What solutions were used before AI? How has AI replaced or will soon replace them?
 
-Before these tools, personalization mainly came from teachers reviewing assignments, giving feedback, changing lesson plans, and providing extra practice or tutoring. Fixed textbooks and lessons also offered the same sequence to many learners. AI tools can help automate some practice recommendations and provide feedback more quickly. They should support—not replace—teachers, whose experience and knowledge of their students are needed to interpret results and provide human guidance.
+All my coding work was done manually within IDEs and auto-fill but all the tests and security checks were manual.  Claude Code helped automate those security checks so I could clean up the code and properly test the code prior to pushing to Production.
 
 ### c. What type of AI is used?
-
-
-Machine learning can identify patterns in a learner's responses and help recommend what to study next. Natural language processing can help a system interpret written questions and generate conversational responses. Some tools may use generative AI to create explanations or practice questions. The methods vary by product, and AI-generated answers can be inaccurate.
+For the most part, this was generative and not agentic.  I was able to type what I needed as I could understand it, and it would help me write the code behind it.
 
 ### d. How does the use of AI and this technology affect everyday life?
 
-Students may be able to practice at their own pace and receive suggestions or feedback outside class hours. Teachers may use learning data to notice where a class or individual student needs additional help. This can make practice more responsive, although access to reliable devices, internet service, and effective tools is not equal for everyone.
+For me, I was able to spend less time writing the manual tests and foundational code and focus more on the logic itself to meet business requirements.  AI gave me the general basis and I could go from there more easily.
 
 ### e. Are there any concerns with using AI for this application?
 
-Yes. Student information is sensitive, so schools and tool providers need to protect it and be clear about how it is collected and used. AI recommendations may be inaccurate or biased, and generative AI can produce incorrect explanations. Students may also become overly dependent on automated help or have less interaction with teachers. AI should be used with teacher oversight, privacy safeguards, and opportunities for students to think through problems independently.
+In general, yes, AI can make mistakes and is meant to perform a task and can skip security or come up with passable tests that don't really test true functionality if it is really just trying to get the code to work. Having a 'human in the loop' is still required to make sure AI does not hallucinate with too much context and security stays top of mind.
 
 ### References
 
-- U.S. Department of Education, Office of Educational Technology. (2023). *Artificial Intelligence and the Future of Teaching and Learning: Insights and Recommendations.* https://tech.ed.gov/ai-future-of-teaching-and-learning/
-- UNESCO. (2023). *Guidance for Generative AI in Education and Research.* https://unesdoc.unesco.org/ark:/48223/pf0000386693
-
+Gartner. (2025). Gartner identifies the top strategic technology trends for 2026. https://www.businesswire.com/news/home/20251020453550/en
+TechCrunch. (2025, July 11). AI coding tools may not speed up every developer, study shows. https://techcrunch.com/2025/07/11/ai-coding-tools-may-not-speed-up-every-developer-study-shows
+Stack Overflow. (2025). Stack Overflow’s 2025 Developer Survey reveals trust in AI at an all-time low. https://stackoverflow.co/company/press/archive/stack-overflow-2025-developer-survey/
